@@ -12,26 +12,6 @@ but with Nukemaru's markers:
 
 {% include youtube.html id="nI_L-b80b10" %}
 
-## English
-
-```
-{% include macros/7.0_dawntrail/valigarmanda.en.txt %}
-```
-
-## Japanese
-
-```
-{% include macros/7.0_dawntrail/valigarmanda.jp.txt %}
-```
-
-## Markers
-
-- The `1234` markers are the spots for the Fire pairs during the donut AoE.
-- The `1` and `2` markers are safe for the party during *Mountain Fire*.
-- The `A` and `B` markers are the safe spots for dodging the Ice Stars in 
-  *Skyruin*:Ice.
-
-![]({{site.baseurl}}/images/7.0_dawntrail/valigarmanda/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
@@ -74,6 +54,3 @@ but with Nukemaru's markers:
     </td>
   </tr>
 </table>
-
-<script data-goatcounter="https://tuufless.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
