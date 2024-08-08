@@ -1,8 +1,52 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: XIVStratHelper
+description: my attempt to comsolidate every strat for every mechanic for every fight, in one easy to reference place!
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+color_scheme: dark
+
+enable_copy_code_button: true
+
+collections:
+  dawntrail:
+    permalink: "/:collection/:path/"
+    output: true
+  endwalker:
+    permalink: "/:collection/:path/"
+    output: true
+    nav_fold: true
+  shadowbringers:
+    permalink: "/:collection/:path/"
+    output: true
+    nav_fold: true
+  stormblood:
+    permalink: "/:collection/:path/"
+    output: true
+    nav_fold: true
+  heavensward:
+    permalink: "/:collection/:path/"
+    output: true
+    nav_fold: true
+  arr:
+    permalink: "/:collection/:path/"
+    output: true
+    nav_fold: true
+
+just_the_docs:
+  collections:
+    dawntrail:
+      name: Dawntrail
+    endwalker:
+      name: Endwalker 
+    shadowbringers:
+      name: Shadowbringers
+    stormblood:
+      name: Stormblood
+    heavensward:
+      name: Heavensward
+    arr:
+      name: A Realm Reborn
