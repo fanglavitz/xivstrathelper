@@ -2,9 +2,6 @@ title: XIVStratHelper
 description: my attempt to comsolidate every strat for every mechanic for every fight, in one easy to reference place!
 theme: just-the-docs
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
 color_scheme: dark
 
 enable_copy_code_button: true
