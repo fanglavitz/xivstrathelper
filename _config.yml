@@ -15,23 +15,18 @@ collections:
   endwalker:
     permalink: "/:collection/:path/"
     output: true
-    nav_fold: true
   shadowbringers:
     permalink: "/:collection/:path/"
     output: true
-    nav_fold: true
   stormblood:
     permalink: "/:collection/:path/"
     output: true
-    nav_fold: true
   heavensward:
     permalink: "/:collection/:path/"
     output: true
-    nav_fold: true
   arr:
     permalink: "/:collection/:path/"
     output: true
-    nav_fold: true
 
 just_the_docs:
   collections:
