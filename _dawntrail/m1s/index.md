@@ -1,7 +1,7 @@
 ---
 layout: default
 title: M1S
-permalink: /Dawntrail/m1s/
+permalink: /dawntrail/m1s/
 ---
 ### Black Cat
 
