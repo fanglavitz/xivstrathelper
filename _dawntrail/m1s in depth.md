@@ -5,10 +5,10 @@ nav_exclude: true
 permalink: /dawntrail/m1sindepth/
 ---
 **0:08**
-<details markdown=block> <summary>Quadruple Crossing</summary> Black Cat will target the closest 4 players with a cone aoe twice. the baited cones apply a slashing vuln debuff which will result in death if hit by 2, so the party will have to divide into 2 sets of 4 players to bait. after both sets of cones, she will follow by again sending 2 sets of 4 cone aoes, first where the first set were baited, then where the second set were. simply stand away from where the first set were baited, then move if necessary to avoid the 2nd set. </details>
+<details markdown=block> <summary>Quadruple Crossing</summary> Black Cat will target the closest 4 players with a cone aoe twice. the baited cones apply a slashing vuln debuff which will result in death if hit by 2, so the party will have to divide into 2 sets of 4 players to bait. after both sets of cones, she will follow by again sending 2 sets of 4 cone aoes, first where the first set were baited, then where the second set were. simply stand away from where the first set were baited, then move if necessary to avoid the 2nd set.</details>
 
 **0:27**
-<details markdown=block> <summary><font color="blue">Biscuit Maker</font></summary> 2 hit tankbuster with vuln. </details>
+<details markdown=block> <summary><font color="blue">Biscuit Maker</font></summary> 2 hit tankbuster with vuln.</details>
 
 **0:52**
 <details markdown=block> <summary>One-Two Paw</summary> Black Cat which will cleave one half of the arena, then the other, telegraphed by the glowing claws at her sides. she will then spawn 2 clones, who will repeat the same set of cleaves as the boss. this will leave a small pizza slice of the arena safe. start there, then dodge through the boss to the pizza slice on the opposite side. as you dodge to the second safe spot, Black Cat will start casting either quadruple swipe or double swipe, signifying a support/dps pair stack, or a light party stack on healers, respectively.</details>
