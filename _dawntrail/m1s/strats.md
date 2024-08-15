@@ -7,6 +7,7 @@ permalink: /dawntrail/m1s/strats
 
 ## Key
 - <font size="4" color="Crimson">H</font>: featured in the Hector Lectures guide
+- <font size="4" color="Yellow">J</font>: featured in the Joonbob guide
 - <font size="4" color="Cyan">NASE</font>: featured in the NASE master pastebin
 
 # Quadruple Crossing
