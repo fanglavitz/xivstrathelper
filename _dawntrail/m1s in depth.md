@@ -6,7 +6,7 @@ permalink: /dawntrail/m1sindepth/
 ---
 | time         | mechanic          |
 |:-------------|:------------------|
-| ok           | the boss will open with quadruple crossing |
+| 0:08 | <details markdown=block><summary>Quadruple Crossing</summary> Black Cat will open with quadruple crossing </details>|
 | out of stock | good and plenty   |
 | ok           | good `oreos`      |
 | ok           | good `zoute` drop |
