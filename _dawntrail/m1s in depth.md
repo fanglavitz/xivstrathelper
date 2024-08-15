@@ -17,7 +17,7 @@ permalink: /dawntrail/m1sindepth/
         }
     };
 </script>
-<button onClick="expandElements(true)">Expand</button>
+<button onClick="expandElements(true)">Expand All</button> <button onClick="expandElements(false)">Collapse All</button>
 <dl>
   <dt>0:08</dt>
   <dd>
@@ -27,7 +27,7 @@ permalink: /dawntrail/m1sindepth/
   </dd>
   <dt>0:27</dt>
   <dd>
-    <details><summary><font color="blue">Biscuit Maker</font></summary>
+    <details><summary><font color="cyan">Biscuit Maker</font></summary>
       2 hit tankbuster with vuln.
     </details>
   </dd>
