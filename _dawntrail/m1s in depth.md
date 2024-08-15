@@ -109,7 +109,7 @@ permalink: /dawntrail/m1sindepth/
   </dd>
   <dt>5:54 OR 5:23</dt>
   <dd>
-    <details><summary><font size="4" color="DarkOliveGreen">One-Two Paw Shade</font></summary>
+    <details><summary><font size="4" color="MediumSeaGreen">One-Two Paw Shade</font></summary>
       Black Cat will start casting a light party stack line aoe on each healer. the add will jump in the stored direction and cleave perform the left/right cleave combo from earlier. the stacks will resolve at the same time as the first cleave, so start on the safe side, then move across to dodge the second cleave after the stacks go off.
     </details>
   </dd>
@@ -143,7 +143,7 @@ permalink: /dawntrail/m1sindepth/
   </dd>
   <dt>8:27</dt>
   <dd>
-    <details><summary><font size="4" color="DarkOliveGreen">Raining Cats</font></summary>
+    <details><summary><font size="4" color="MediumSeaGreen">Raining Cats</font></summary>
       2 tethers will spawn from the boss, which can be intercepted and traded. the tethered players will be hit with a cone aoe and will recieve a slashing resistance down debuff, this will ensure that if they are hit by a second tether aoe, they will die. the closest and furthest player will also each be targeted with a stack aoe. the tether and stack aoes will happen at the same time and will happen 4 times each.
     </details>
   </dd>
