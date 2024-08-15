@@ -6,9 +6,14 @@ permalink: /dawntrail/m1s/strats
 ---
 
 ## Key
-- <font color="Crimson">H</font>&nbsp;: featured in the Hector Lectures guide
-- <font color="Yellow">J</font>&nbsp;: featured in the Joonbob guide
-- <font color="Cyan">NASE</font>&nbsp;: featured in the NASE master pastebin
+<dl>
+  <dt><font color="Crimson">H</font></dt>
+  <dd>featured in the Hector Lectures guide</dd>
+  <dt><font color="Yellow">J</font></dt>
+  <dd>featured in the Joonbob guide</dd>
+  <dt><font color="Cyan">NASE</font></dt>
+  <dd>featured in the NASE master pastebin</dd>
+</dl>
 
 # Quadruple Crossing
 <details markdown=block><summary><font size="4" color="LightBlue">Clock Baits</font>&nbsp;<font size="4" color="Crimson">H</font></summary>
