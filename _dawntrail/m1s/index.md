@@ -9,17 +9,21 @@ permalink: /dawntrail/m1s/
 - [Index of Possible Strats](strats)
 
 <details><summary><font size="4" color="LightBlue">Video Guides</font></summary>
-  ### Hope
+  <details><summary>Hope</summary>
   {% include youtube.html id="YDnc9FQpIXo" %}
-  ### Joonbob
+  </details>
+  <details><summary>Joonbob</summary>
   {% include youtube.html id="0Vb3TCqz4F8" %}
-  ### Hector
+  </details>
+  <details><summary>Hector</summary>
   {% include youtube.html id="9UB5x8JzAiQ" %}
-  ### MTQ
+  </details>
+  <details><summary>MTQ</summary>
   {% include youtube.html id="b__UxRaUxb8" %}
+  </details>
 </details>
 <details markdown=block>
-  <summary>Markers</summary>
+  <summary><font size="4" color="LightBlue">Markers</font></summary>
   ```json
   {"Name":"M1S","MapID":986,
   "A":{"X":100.0,"Y":0.0,"Z":90.0,"ID":0,"Active":true},
