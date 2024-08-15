@@ -161,6 +161,6 @@ permalink: /dawntrail/m1s/indepth/
   </dd>
   <dt>10:02</dt>
   <dd>
-    <font size="4" color="LightBlue">Final Enrage</font>
+    <font size="4" color="DarkRed">Final Enrage</font>
   </dd>
 </dl>
