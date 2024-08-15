@@ -10,7 +10,7 @@ permalink: /dawntrail/m1sindepth/
 | 0:27 | <details markdown=block><summary>Biscuit Maker</summary> 2 hit tankbuster with vuln. </details>
 | 0:52 | <details markdown=block><summary>One-Two Paw</summary> Black Cat which will cleave one half of the arena, then the other, telegraphed by the glowing claws at her sides. she will then spawn 2 clones, who will repeat the same set of cleaves as the boss. this will leave a small pizza slice of the arena safe. start there, then dodge through the boss to the pizza slice on the opposite side. as you dodge to the second safe spot, Black Cat will start casting either quadruple swipe or double swipe, signifying a support/dps pair stack, or a light party stack on healers, respectively.</details> |
 | 1:35 | <details markdown=block><summary>Leaping Quadruple Crossing</summary> Black Cat will tether left or right, and shortly after will jump to the position tethered and repeat the first mechanic’s baited cleaves. this time, on the second non-targeted cleave, she will repeat either dps/support pairs or light party stacks, whichever was cast during the clones.</details> |
-| 1:57 | Bloody Scratch {: .label .label-red } |
+| 1:57 | Bloody Scratch <font color="red">Status: **Not yet implemented**</font> |
 
 
 the boss will tether left or right, and start casting leaping quadruple crossing. this will cause the boss to jump to the position tethered, then repeat the first mechanic’s baited cleaves. this time, on the second non-targetted cleave, she will repeat either dos/support pairs or light party stacks, whichever she casted during the clones.
