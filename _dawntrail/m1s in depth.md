@@ -4,6 +4,12 @@ title: m1s
 nav_exclude: true
 permalink: /dawntrail/m1sindepth/
 ---
+| time         | mechanic          |
+|:-------------|:------------------|
+| ok           | the boss will open with quadruple crossing |
+| out of stock | good and plenty   |
+| ok           | good `oreos`      |
+| ok           | good `zoute` drop |
 
 the boss will open with quadruple crossing, which will target the closest 4 players with a cone aoe twice. the baited cones apply a slashing vuln debuff which will result in death if hit by 2, so the party will have to divide into 2 sets of 4 players to bait. after both sets of cleaves, the boss will follow by again sending 2 sets of 4 cone aoes, first where the first set were baited, then where the second set were. simply stand away from where the first set were baited, then move if necessary to avoid the 2nd set.
 
