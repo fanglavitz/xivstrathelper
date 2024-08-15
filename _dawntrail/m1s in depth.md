@@ -5,42 +5,19 @@ nav_exclude: true
 permalink: /dawntrail/m1sindepth/
 ---
 <script>
-// Reference the toggle link
-const xa = document.getElementById('expAll');
+      const expandElements = shouldExpand => {
+        let detailsElements = document.querySelectorAll("details");
+        
+        detailsElements = [...detailsElements];
 
-// Register link on click event
-xa.addEventListener('click', function(e) {
-
-  /* Toggle the two classes that represent "state"
-  || determined when link is clicked
-  */
-  e.currentTarget.classList.toggle('exp');
-  e.currentTarget.classList.toggle('col');
-
-  // Collect all <details> into a NodeList
-  const details = document.querySelectorAll('details');
-
-  /* Convert NodeList into an array then iterate
-  || through it...
-  */
-  Array.from(details).forEach(function(obj, idx) {
-
-    /* If the link has the class .exp...
-    || make each <detail>'s open attribute true
-    */
-    if (e.currentTarget.classList.contains('exp')) {
-      obj.open = true;
-      // Otherwise remove [open]
-    } else {
-      obj.removeAttribute('open');
-    }
-
-  });
-
-}, false);
+        if (shouldExpand) {
+            detailsElements.map(item => item.setAttribute("open", shouldExpand));
+        } else {
+            detailsElements.map(item => item.removeAttribute("open"));
+        }
+    };
 </script>
-
-<a href='#/' id='expAll' class='col'>Expand All</a>
+<button onClick="expandElements(true)">Expand</button>
 <dl>
   <dt>0:08</dt>
   <dd>
