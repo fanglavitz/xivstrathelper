@@ -7,7 +7,7 @@ Welcome to XIVStratHelper, your one stop shop for all your strategy and timeline
 ## Markers
 Some Fights will have a marker section that looks like this:
 <details markdown=block>
-<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+<summary>Markers</summary>
 
 ```json
 {
@@ -30,11 +30,7 @@ To use these markers ingame, you need a plugin called Waymark Preset Plugin, in 
 ## Color Key
   
 <font color="Crimson">Raidwide</font><br>
-<br>
 <font color="DodgerBlue">Tankbuster</font><br>
-<br>
 <font color="Orange">Spread Out</font><br>
-<br>
 <font color="MediumSeaGreen">Stack</font><br>
-<br>
-<font color="DarkOliveGreen">Light Parties</font><br>
+<font color="DarkOliveGreen">Light Parties</font>
