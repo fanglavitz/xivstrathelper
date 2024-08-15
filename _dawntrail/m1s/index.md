@@ -3,11 +3,11 @@ layout: default
 title: M1S
 permalink: /dawntrail/m1s/
 ---
-### Black Cat
+# Black Cat
 
 - [Timeline and In Depth Mechanics Overview](indepth)
 - [Index of Possible Strats](strats)
-# Role Specific Strat Guides
+## Role Specific Strat Guides
 - [Healer](healer)
 - [Tank](tank)
 - [Melee](melee)
