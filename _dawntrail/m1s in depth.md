@@ -7,8 +7,7 @@ permalink: /dawntrail/m1sindepth/
 <dl>
   <dt>0:08</dt>
   <dd>
-    <details markdown=block>
-      <summary>Quadruple Crossing</summary>
+    <details><summary>Quadruple Crossing</summary>
       Black Cat will target the closest 4 players with a cone aoe twice. the baited cones apply a slashing vuln debuff which will result in death if hit by 2, so the party will have to divide into 2 sets of 4 players to bait. after both sets of cones, she will follow by again sending 2 sets of 4 cone aoes, first where the first set were baited, then where the second set were. simply stand away from where the first set were baited, then move if necessary to avoid the 2nd set.
     </details>
   </dd>
