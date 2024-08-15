@@ -95,11 +95,6 @@ permalink: /dawntrail/m1sindepth/
       take note of which direction she jumped, as she will now spawn another clone that will store the jump/cleave combo she just performed.
     </details>
   </dd>
-  <dt></dt>
-  <dd>
-    <details><summary>title</summary>
-    </details>
-  </dd>
   <dt>5:24</dt>
   <dd>
     <details><summary>Quadruple Crossing OR One-Two Paw</summary>
