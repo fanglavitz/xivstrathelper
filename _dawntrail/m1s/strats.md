@@ -23,15 +23,15 @@
 </details>
 
 # Nailchipper
-<details><summary><font size="4" color="LightBlue">True North</font>&nbsp;<font size="4" color="Crimson">H</font></summary>
+<details><summary><font size="4" color="LightBlue">True North</font>&nbsp;<font size="4" color="Crimson">H</font>&nbsp;<font size="4" color="Cyan">NASE</font></summary>
   Boss is centered on the marker that the clone is jumping to, facing true north. Cones are baited in the same fashion as the first Quadruple Crossing, but with non-marked players first.
 </details>
-<details><summary><font size="4" color="LightBlue">Boss Relative</font>&nbsp;<font size="4" color="Cyan">NASE</font></summary>
+<details><summary><font size="4" color="LightBlue">Boss Relative</font></summary>
   Boss is centered on the marker that the clone is jumping to, facing the same direction as the clone. Cones are baited in the same fashion as the first Quadruple Crossing, but with non-marked players first.
 </details>
 
 # Raining Cats
-<details><summary><font size="4" color="LightBlue">THMR</font></summary>
+<details><summary><font size="4" color="LightBlue">THMR</font>&nbsp;<font size="4" color="Crimson">H</font></summary>
   Tanks take the first tether and LP1 stack just inside the hitbox at SW, LP2 stack max melee SE. after the first set, Healers take tethers, and repeat. Next Melees, and finally Ranged take last.
 </details>
 <details><summary><font size="4" color="LightBlue">MTTT Range/Melee</font></summary>
@@ -41,8 +41,8 @@
 <details><summary><font size="4" color="LightBlue">MTTT Light Parties</font></summary>
   Melees take the first tether, LP1 stack just inside the hitbox at SW, LP2 stack max melee SE. After the first tether, Tanks grab the tethers, and Melees join their light party. Tanks invuln the last 2 tethers.
 </details>
-<details><summary><font size="4" color="LightBlue">MTTT Everyone Out</font></summary>
-  Melees take the first tether, LP1 stack just inside the hitbox at SW, LP2 stack max melee SE. After the first tether, Tanks grab the tethers and stand underneath the boss, and everybody else goes max melee south of the boss. Tanks mitigate the first tether and stack they take, then invuln the last 2 tethers.
+<details><summary><font size="4" color="LightBlue">MTTT Everyone Out</font>&nbsp;<font size="4" color="Cyan">NASE</font></summary>
+  Melees take the first tethers east and west, party max melee south of boss, Tanks under boss hitbox north. After the first tether, Tanks grab the tethers and stand underneath the boss, and everybody else goes max melee south of the boss. Tanks mitigate the first tether and stack they take, then invuln the last 2 tethers.
   https://raidplan.io/plan/3Kfzojuys7fOQs1v
 </details>
 <details><summary><font size="4" color="LightBlue">MTTT Invuln All</font></summary>
