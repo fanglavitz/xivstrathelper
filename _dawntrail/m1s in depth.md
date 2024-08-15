@@ -137,7 +137,7 @@ permalink: /dawntrail/m1sindepth/
   </dd>
   <dt>8:03</dt>
   <dd>
-    <details><summary><font size="4" color="LightBlue">Platform Reform</font></summary>
+    <details><summary><font size="4" color="Orange">Platform Reform</font></summary>
       Black Cat will start reforming the outside edge tiles and charging a knockback. this knockback cannot be prevented, but can be cancelled with a movement skill. 4 tiles will be forming faster, a pair each on opposite corners. get knocked into one of those corners, then spread out to resolve the spread aoes on each player after.
     </details>
   </dd>
