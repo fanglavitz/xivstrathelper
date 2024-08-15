@@ -5,13 +5,13 @@ permalink: /dawntrail/m1s/
 ---
 ### Black Cat
 
-[Timeline and In Depth Mechanics Overview](indepth)
-[Index of Possible Strats](strats)
+- [Timeline and In Depth Mechanics Overview](indepth)
+- [Index of Possible Strats](strats)
 # Role Specific Strat Guides
-[Healer](healer)
-[Tank](tank)
-[Melee](melee)
-[Ranged](ranged)
+- [Healer](healer)
+- [Tank](tank)
+- [Melee](melee)
+- [Ranged](ranged)
 
 <details markdown=block>
   <summary>Markers</summary>
