@@ -27,10 +27,3 @@ Some fights will have a marker section that looks like this:
 </details>
 To use these markers ingame, you need a plugin called Waymark Preset Plugin, in the default Dalamud repo.
 
-## Color Key
-  
-- <font color="Crimson">Raidwide</font>
-- <font color="DodgerBlue">Tankbuster</font>
-- <font color="Orange">Spread Out</font>
-- <font color="MediumSeaGreen">Stack</font>
-- <font color="DarkOliveGreen">Light Parties</font>
