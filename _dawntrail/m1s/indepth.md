@@ -2,7 +2,7 @@
 layout: default
 title: m1s
 nav_exclude: true
-permalink: /dawntrail/m1sindepth/
+permalink: /dawntrail/m1s/indepth/
 ---
 <script>
       const expandElements = shouldExpand => {
