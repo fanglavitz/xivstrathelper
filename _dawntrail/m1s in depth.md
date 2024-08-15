@@ -4,6 +4,7 @@ title: m1s
 nav_exclude: true
 permalink: /dawntrail/m1sindepth/
 ---
+<script>
 // Reference the toggle link
 const xa = document.getElementById('expAll');
 
@@ -37,6 +38,7 @@ xa.addEventListener('click', function(e) {
   });
 
 }, false);
+</script>
 
 <a href='#/' id='expAll' class='col'>Expand All</a>
 <dl>
