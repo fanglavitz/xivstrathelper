@@ -17,7 +17,7 @@ permalink: /dawntrail/m1sindepth/
         }
     };
 </script>
-<button onClick="expandElements(true)">Expand All</button> <button onClick="expandElements(false)">Collapse All</button>
+<button type="button" name="button" class="btn" onClick="expandElements(true)">Expand All</button> <button type="button" name="button" class="btn" onClick="expandElements(false)">Collapse All</button>
 <dl>
   <dt>0:08</dt>
   <dd>
