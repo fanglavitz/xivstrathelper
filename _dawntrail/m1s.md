@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fight name
+title: M1S
 permalink: /Dawntrail/m1s/
 ---
 ### Black Cat
@@ -9,17 +9,6 @@ permalink: /Dawntrail/m1s/
 <details markdown=block>
   <summary>Markers</summary>
   ```json
-{
-  "Name":"M1S",
-  "MapID":986,
-  "A":{"X":100.0,"Y":0.0,"Z":90.0,"ID":0,"Active":true},
-  "B":{"X":110.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
-  "C":{"X":100.0,"Y":0.0,"Z":110.0,"ID":2,"Active":true},
-  "D":{"X":90.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
-  "One":{"X":110.0,"Y":0.0,"Z":95.0,"ID":4,"Active":true},
-  "Two":{"X":110.0,"Y":0.0,"Z":105.0,"ID":5,"Active":true},
-  "Three":{"X":90.0,"Y":0.0,"Z":105.0,"ID":6,"Active":true},
-  "Four":{"X":90.0,"Y":0.0,"Z":95.0,"ID":7,"Active":true}
-}
-```
+{"Name":"M1S (Game8)","MapID":986,"A":{"X":100.0,"Y":0.0,"Z":90.0,"ID":0,"Active":true},"B":{"X":110.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":110.0,"ID":2,"Active":true},"D":{"X":90.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":110.0,"Y":0.0,"Z":95.0,"ID":4,"Active":true},"Two":{"X":110.0,"Y":0.0,"Z":105.0,"ID":5,"Active":true},"Three":{"X":90.0,"Y":0.0,"Z":105.0,"ID":6,"Active":true},"Four":{"X":90.0,"Y":0.0,"Z":95.0,"ID":7,"Active":true}}
+  ```
 </details>
