@@ -80,7 +80,7 @@ permalink: /dawntrail/m1sindepth/
   <dt>4:29</dt>
   <dd>
     <details><summary><font size="4" color="LightBlue">Soulshade</font></summary>
-      take note of which direction Black Cat just jumped and the order of the cleaves. a clone add will spawn just north or south of center, facing inward. this clone will store the same left/right jump and cleave combo the boss just performed.
+      take note of which direction Black Cat just jumped and the order of the cleaves. an add will spawn just north or south of center, facing inward. this clone will store the same left/right jump and cleave combo the boss just performed.
     </details>
   </dd>
   <dt>4:39</dt>
@@ -92,7 +92,7 @@ permalink: /dawntrail/m1sindepth/
   <dt>4:56</dt>
   <dd>
     <details><summary><font size="4" color="LightBlue">Soulshade</font></summary>
-      take note of which direction she jumped, as she will now spawn another clone that will store the jump/cleave combo she just performed.
+      take note of which direction she jumped, as she will now spawn another add that will store the jump/cleave combo she just performed.
     </details>
   </dd>
   <dt>5:24</dt>
