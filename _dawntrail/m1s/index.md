@@ -8,7 +8,16 @@ permalink: /dawntrail/m1s/
 - [Timeline and In Depth Mechanics Overview](indepth)
 - [Index of Possible Strats](strats)
 
-
+<details><summary><font size="4" color="LightBlue">Video Guides</font></summary>
+  ### Hope
+  {% include youtube.html id="YDnc9FQpIXo" %}
+  ### Joonbob
+  {% include youtube.html id="0Vb3TCqz4F8" %}
+  ### Hector
+  {% include youtube.html id="9UB5x8JzAiQ" %}
+  ### MTQ
+  {% include youtube.html id="b__UxRaUxb8" %}
+</details>
 <details markdown=block>
   <summary>Markers</summary>
   ```json
