@@ -1,7 +1,6 @@
 ---
 layout: default
 title: fight name
-nav_exclude: true
 permalink: /Dawntrail/m1s/
 ---
 ### Black Cat
