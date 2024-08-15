@@ -5,6 +5,7 @@ permalink: /Dawntrail/m1s/
 ---
 ### Black Cat
 
+[Timeline and In Depth Mechanics Overview](indepth)
 
 <details markdown=block>
   <summary>Markers</summary>
