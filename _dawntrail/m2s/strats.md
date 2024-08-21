@@ -4,9 +4,9 @@ title: M2S Strats
 nav_exclude: true
 permalink: /dawntrail/m2s/strats
 ---
-You will need:
-Ranged/Melee partners(Tank/Ranged and Melee/Healer)
-Clock Spots
+You will need:<br>
+Ranged/Melee partners(Tank/Ranged and Melee/Healer)<br>
+Clock Spots<br>
 
 ## Key
 <dl>
@@ -19,7 +19,7 @@ Clock Spots
 </dl>
 
 # Beat 1
-<details markdown=block><summary><font size="4" color="LightBlue">Everyone 2 Hearts</font>&nbsp;<font size="4" color="Crimson">H</font>&nbsp;<font color="Cyan">NASE</font></summary>
+<details markdown=block><summary><font size="4" color="LightBlue">Everyone 2 Hearts</font>&nbsp;<font color="Crimson">H</font>&nbsp;<font color="Cyan">NASE</font></summary>
   Players with fewer than 2 hearts have priority on getting towers first, then all players with 2 hearts take the stack just south of the boss.
 </details>
 <details markdown=block><summary><font size="4" color="LightBlue">Melees get stack</font></summary>
@@ -41,7 +41,7 @@ Clock Spots
 </details>
 
 # Beat 2
-<details markdown=block><summary><font size="4" color="LightBlue">"Braindead"</font>&nbsp;<font size="4" color="Crimson">H</font>&nbsp;<font color="Cyan">NASE</font></summary>
+<details markdown=block><summary><font size="4" color="LightBlue">"Braindead"</font>&nbsp;<font color="Crimson">H</font>&nbsp;<font color="Cyan">NASE</font></summary>
   1s can go wherever they want, as long as they stay out of the way of the 0s. 0s start south, then bait aoes clockwise around the boss. 1 spreads dont clip anyone and 1 nothings take towers according to prio IMPORTANT: Hector has supports taking north or west towers, dps south or east. NASE pastebin has supports taking south or west, dps north or east
 </details>
 <details markdown=block><summary><font size="4" color="LightBlue">Support North DPS South</font>&nbsp;<font color="Yellow">Y</font></summary>
@@ -49,7 +49,7 @@ Clock Spots
 </details>
 
 # Beat 3
-<details markdown=block><summary><font size="4" color="LightBlue">Clock Spot Defamations</font>&nbsp;<font size="4" color="Crimson">H</font>&nbsp;<font color="Cyan">NASE</font></summary>
+<details markdown=block><summary><font size="4" color="LightBlue">Clock Spot Defamations</font>&nbsp;<font color="Crimson">H</font>&nbsp;<font color="Cyan">NASE</font></summary>
   Take your defamation aoe on your assigned clock spot.
 </details>
 <details markdown=block><summary><font size="4" color="LightBlue">Last Dodge Defamations</font></summary>
