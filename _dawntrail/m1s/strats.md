@@ -4,6 +4,10 @@ title: M1S Strats
 nav_exclude: true
 permalink: /dawntrail/m1s/strats
 ---
+You will need:
+Partners(usually based on marker colors)
+Clock Spots
+Light Parties
 
 ## Key
 <dl>
