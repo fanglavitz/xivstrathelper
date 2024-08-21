@@ -1,10 +1,8 @@
 ---
 layout: default
-title: fight name
-parent: Savage
-has_children: true
+title: M2S
 nav_exclude: true
-permalink: /expansion/fight/
+permalink: /dawntrail/m2s/indepth/
 ---
 <script>
       const expandElements = shouldExpand => {
