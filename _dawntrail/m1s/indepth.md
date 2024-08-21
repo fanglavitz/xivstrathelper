@@ -120,7 +120,7 @@ permalink: /dawntrail/m1s/indepth/
   <dt>6:24</dt>
   <dd>
     <details><summary><font size="4" color="LightBlue">Mouser</font></summary>
-      Black Cat will recenter, and start casting mouser again. this is identical to the first, but the safe spots will be rotated. if it was 2 rows safe first, it will be 2 columns safe now, and vice versa.
+      Black Cat will recenter, and start casting mouser again. this is identical to the first.
     </details>
   </dd>
   <dt>6:52-7:46</dt>
