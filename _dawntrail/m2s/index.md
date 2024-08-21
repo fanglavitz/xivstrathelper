@@ -9,8 +9,17 @@ permalink: /dawntrail/m2s/
 - [Index of Possible Strats](strats)
 
 <details><summary><font size="4" color="LightBlue">Video Guides</font></summary>
-  <details><summary>GUIDEMAKERHERE</summary>
-  {% include youtube.html id="IDHERE" %}
+  <details><summary>Hope</summary>
+  {% include youtube.html id="9zhnyvg8OEI" %}
+  </details>
+  <details><summary>Yukizuri</summary>
+  {% include youtube.html id="jY_a_-SMRE8" %}
+  </details>
+  <details><summary>Hector</summary>
+  {% include youtube.html id="Pb6sE5Hp3B8" %}
+  </details>
+  <details><summary>MTQ</summary>
+  {% include youtube.html id="JQeTFmQcNkI" %}
   </details>
 </details>
 <br>
