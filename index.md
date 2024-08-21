@@ -4,6 +4,8 @@ layout: home
 ---
 Welcome to XIVStratHelper, your one stop shop for all your strategy and timeline needs. We aim to provide indepth guides for every fight in the game, as well as consolidate every possible strat for each mechanic into one easy to find place. Our goal is to eventually allow Party Finder to become more accessible by allowing you to find any given strat listed in a PF and learn it easily.
 
+I generally recommend the NASE pastebin as a default resource to easily communicate the strats you want to use in your PF listing. [Here](https://pastebin.com/Sckr8E0m) is the current one for this tier
+
 ## Markers
 Some fights will have a marker section that looks like this:
 <details markdown=block>
