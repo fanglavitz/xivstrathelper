@@ -8,9 +8,14 @@ permalink: /dawntrail/m2s/
 - [Timeline and In Depth Mechanics Overview](indepth)
 - [Index of Possible Strats](strats)
 
-
+<details><summary><font size="4" color="LightBlue">Video Guides</font></summary>
+  <details><summary>GUIDEMAKERHERE</summary>
+  {% include youtube.html id="IDHERE" %}
+  </details>
+</details>
+<br>
 <details markdown=block>
-  <summary>Markers</summary>
+  <summary><font size="4" color="LightBlue">Markers</font></summary>
   ```json
 {"Name":"M2S", "MapID":988,
   "A":{"X":100.0,"Y":0.0,"Z":91.375,"ID":0,"Active":true},
