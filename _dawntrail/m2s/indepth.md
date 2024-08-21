@@ -77,9 +77,9 @@ Resolve the stored spread or pair stack here.
       Towers will start spawning in random configurations, at 3 possible distances from the boss. the closest at the edge of her hitbox, the middle at just inside max melee, and the furthest at the wall. soaking a tower will give that player a heart, and an unsoaked tower will give raidwide damage and give everyone a heart. 11 total towers will spawn.
     </details>
   </dd>
-  <dt>Loveseeker</dt>
+  <dt>2:16</dt>
   <dd>
-    <details><summary><font size="4" color="LightBlue">title</font></summary>
+    <details><summary><font size="4" color="LightBlue">Loveseeker</font></summary>
       There will be a point blank aoe, then hearts will start floating away from the boss in a fixed triple swirl pattern, and hearts will start floating in from the outside of the arena towards random players.
     </details>
   </dd>
