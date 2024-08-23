@@ -1,9 +1,9 @@
 ---
 layout: default
-title:
-permalink: /expansion/fight/
+title: M3S
+permalink: /dawntrail/m3s/
 ---
-# boss name
+# Brute Bomber
 
 - [Timeline and In Depth Mechanics Overview](indepth)
 - [Index of Possible Strats](strats)
