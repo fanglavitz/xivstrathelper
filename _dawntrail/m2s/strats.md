@@ -42,7 +42,7 @@ Clock Spots<br>
 
 # Beat 2
 <details markdown=block><summary><font size="4" color="LightBlue">"Braindead"</font>&nbsp;<font color="Crimson">H</font>&nbsp;<font color="Cyan">NASE</font></summary>
-  1s can go wherever they want, as long as they stay out of the way of the 0s. 0s start south, then bait aoes clockwise around the boss. 1 spreads dont clip anyone and 1 nothings take towers according to prio IMPORTANT: Hector has supports taking north or west towers, dps south or east. NASE pastebin has supports taking south or west, dps north or east
+  1s can go wherever they want, as long as they stay out of the way of the 0s. 0s start south, then bait aoes clockwise around the boss. 1 spreads dont clip anyone and 1 nothings take towers according to prio. Hector and pastebin have supports take N/W towers and dps take S/E towers, but discuss prio and ensure everyone is on the same page.
 </details>
 <details markdown=block><summary><font size="4" color="LightBlue">Support North DPS South</font>&nbsp;<font color="Yellow">Y</font></summary>
   1s stack center underneath the boss. Support 0s stack north and DPS 0s stack south. Rotate clockwise around the boss to bait. Supports take north or west towers, dps take south or east.
