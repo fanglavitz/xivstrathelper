@@ -32,7 +32,7 @@ permalink: /dawntrail/m3s/
 <details markdown=block>
   <summary><font size="4" color="LightBlue">Markers</font></summary>
   ```json
-  {"Name":"M3S (EN)", "MapID":990,
+  {"Name":"M3S", "MapID":990,
   "A":{"X":100.0,"Y":0.0,"Z":93.0,"ID":0,"Active":true},
   "B":{"X":107.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
   "C":{"X":100.0,"Y":0.0,"Z":107.0,"ID":2,"Active":true},
