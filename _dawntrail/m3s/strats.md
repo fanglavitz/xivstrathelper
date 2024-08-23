@@ -34,11 +34,10 @@ Note the original Hector guide featured Anti-Knockback towers, so it might be wo
 # Final Fusedown
 <details markdown=block><summary><font size="4" color="LightBlue">Relative North</font>&nbsp;<font color="Cyan">NASE</font></summary>
   The solo long fuse bomb becomes the new relative north. All 4 short tether players go to the 3 long tether bombs, and spread there. Melees/Tanks max melee, Ranged/Healers further back, Group 1 left Group 2 right. Long fuse players stand center under the boss, slightly away from the short bombs, or under the north long fuse. After the first set resolve, cross into the new safe arc, and long fuse spread out. Ranged/Healers out to the corners, Melees/Tanks max melee behind the marker, Group 1 left, Group 2 right. Short fuse players now stand under the boss, just on the new safe side.
-  https://raidplan.io/plan/J34av6e0EuxVe7kW
+  [Raidplan](https://raidplan.io/plan/J34av6e0EuxVe7kW)
 </details>
 <details markdown=block><summary><font size="4" color="LightBlue">Relative North Variant</font>&nbsp;<font color="Yellow">Y</font></summary>
   The 3 long fuse bombs become the new relative north. Melee/Tank and Ranged/Healer 1 short tether players go to the 3 long tether bombs, and spread there. Melee/Tank max melee, Ranged/Healer in the corner, Group 1 left Group 2 right. Ranged/Healer 2 go to the solo bomb. Long fuse players stand center under the boss, slightly away from the short bombs. After the first set resolve, cross into the new safe arc, and long fuse spread out. Ranged/Healers out to the corners, Melees/Tanks max melee behind the marker, Group 1 left, Group 2 right. Short fuse players now stand under the boss, just on the new safe side.
-  https://raidplan.io/plan/J34av6e0EuxVe7kW
 </details>
 <details markdown=block><summary><font size="4" color="LightBlue">True North</font>&nbsp;<font color="Crimson">H</font></summary>
   R1 and H1 stand SW, OT and M2 stand SE, R2 and H2 stand NE, and MT and M1 stand NW. Short fuse players stand just behind the closest long fuse bomb to them, Long fuse players stack center under the boss, just on the side of the long fuse bombs. After the first set of bombs explode, H1/R1 long fuse goes NW, H2/R2 long fuse goes SE, and tanks/melees move to the closest safe marker to their initial spot, and stand max melee behind it. Short fuse players now stand under the boss, just on the new safe side.
