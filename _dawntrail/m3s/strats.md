@@ -21,7 +21,7 @@ Clock Spots<br>
 
 # Barbarous Barrage
 Note the original Hector guide featured Anti-Knockback towers, so it might be worth checking to make sure which strat you are using if it only says Hector.
-<details markdown=block><summary><font size="4" color="LightBlue">Melee/Ranged Split/font>&nbsp;<font color="Crimson">H</font>&nbsp;font color="Yellow">Y</font>&nbsp;<font color="Cyan">NASE</font></summary>
+<details markdown=block><summary><font size="4" color="LightBlue">Melee/Ranged Split</font>&nbsp;<font color="Crimson">H</font>&nbsp;<font color="Yellow">Y</font>&nbsp;<font color="Cyan">NASE</font></summary>
   Melees go to the North or West tower, Ranged go South or East. Group 1 knocked left facing boss, Group 2 knocked right.
 </details>
 <details markdown=block><summary><font size="4" color="LightBlue">Group Split</font></summary>
@@ -36,7 +36,7 @@ Note the original Hector guide featured Anti-Knockback towers, so it might be wo
   The solo long fuse bomb becomes the new relative north. All 4 short tether players go to the 3 long tether bombs, and spread there. Melees/Tanks max melee, Ranged/Healers further back, Group 1 left Group 2 right. Long fuse players stand center under the boss, slightly away from the short bombs, or under the north long fuse. After the first set resolve, cross into the new safe arc, and long fuse spread out. Ranged/Healers out to the corners, Melees/Tanks max melee behind the marker, Group 1 left, Group 2 right. Short fuse players now stand under the boss, just on the new safe side.
   https://raidplan.io/plan/J34av6e0EuxVe7kW
 </details>
-<details markdown=block><summary><font size="4" color="LightBlue">Relative North Variant</font>&nbsp;font color="Yellow">Y</font></summary>
+<details markdown=block><summary><font size="4" color="LightBlue">Relative North Variant</font>&nbsp;<font color="Yellow">Y</font></summary>
   The 3 long fuse bombs become the new relative north. Melee/Tank and Ranged/Healer 1 short tether players go to the 3 long tether bombs, and spread there. Melee/Tank max melee, Ranged/Healer in the corner, Group 1 left Group 2 right. Ranged/Healer 2 go to the solo bomb. Long fuse players stand center under the boss, slightly away from the short bombs. After the first set resolve, cross into the new safe arc, and long fuse spread out. Ranged/Healers out to the corners, Melees/Tanks max melee behind the marker, Group 1 left, Group 2 right. Short fuse players now stand under the boss, just on the new safe side.
   https://raidplan.io/plan/J34av6e0EuxVe7kW
 </details>
@@ -48,6 +48,6 @@ Note the original Hector guide featured Anti-Knockback towers, so it might be wo
 <details markdown=block><summary><font size="4" color="LightBlue">Snake Prio</font>&nbsp;<font color="Cyan">NASE</font></summary>
   Group 1 starts Northwest and looks counterclockwise, Group 2 starts North and looks clockwise. Ranged and Healers take the first appropriate fuse, then Melees and Tanks take the second.
 </details>
-<details markdown=block><summary><font size="4" color="LightBlue">MMRR</font>&nbsp;<font color="Crimson">H</font>&nbsp;font color="Yellow">Y</font></summary>
+<details markdown=block><summary><font size="4" color="LightBlue">MMRR</font>&nbsp;<font color="Crimson">H</font>&nbsp;<font color="Yellow">Y</font></summary>
   Starting from north, looking clockwise, Melees and Tanks find the first 2 appropriate fuses, then Ranged and Healers find the second 2. Group 1 goes to the first of those, and Group 2 goes to the second.
 </details>
