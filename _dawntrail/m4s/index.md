@@ -34,7 +34,7 @@ permalink: /Dawntrail/m4s/
   "A":{"X":100.016,"Y":0.001,"Z":90.079,"ID":0,"Active":true},
   "B":{"X":110.085,"Y":0.0,"Z":99.914,"ID":1,"Active":true},
   "C":{"X":100.007,"Y":0.0,"Z":110.176,"ID":2,"Active":true},
-  "D"{"X":89.93,"Y":0.0,"Z":100.102,"ID":3,"Active":true},
+  "D":{"X":89.93,"Y":0.0,"Z":100.102,"ID":3,"Active":true},
   "One":{"X":106.953,"Y":0.0,"Z":93.148,"ID":4,"Active":true},
   "Two":{"X":107.073,"Y":0.0,"Z":107.101,"ID":5,"Active":true},
   "Three":{"X":92.869,"Y":0.0,"Z":107.09,"ID":6,"Active":true},
